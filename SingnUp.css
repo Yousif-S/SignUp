@@ -1,0 +1,112 @@
+     body{
+                 background:  url(https://i.pinimg.com/originals/ec/80/d3/ec80d334bf8782c67d446e554cb138c6.jpg);
+         background-repeat: no-repeat;
+         background-attachment: fixed;
+         margin: center;
+          background-size: cover;
+             
+            }
+            .form-container{
+                
+                border-radius: 15px;
+                background-color: darkslategray;
+               
+                padding: 0 auto;
+                
+                padding-top: 100px;
+               
+               margin: 0 auto;
+               margin-top: 120px;
+                color: wheat;
+                
+                
+            }
+            .btn1{
+              
+                border-radius: 15px;
+                    padding-bottom: 20px;
+                    padding-left: 80px;
+                    padding-right: 100px;
+                    margin-top: 50px;
+                   margin-left: 80px;
+                    margin-right: 150px;
+                    font-size: 20px;
+                   
+                    
+            }
+            input{
+                 margin-left: 80px;
+            }
+            p{
+               margin-left: 80px;
+               
+            }
+            h1{
+                margin-bottom:80px;
+                margin-left: 150px;
+                color: wheat;
+                font-family: sans-serif;
+                font-size: 45px;
+            }
+            h5{
+               margin-left: 80px;
+            }
+            .divFooter{
+        
+      display: grid;
+      font-family:  fantasy;
+      font-size: 25px;
+      color: whitesmoke;
+                grid-gap: 15px;
+                grid-template-columns: repeat(auto-fit, minmax(250px,1fr));
+                padding-top: 10px;
+                margin-left: 100px;
+              
+                margin-right: 100px;
+                margin-top: 450px;
+                background-image: url(https://i.ibb.co/Lx8w1CS/unnamed.jpg);
+               background-repeat: no-repeat;
+               background-size: cover;
+
+    }
+    .navbar{
+        background-image: url(https://i.ibb.co/Lx8w1CS/unnamed.jpg);
+               background-repeat: no-repeat;
+               background-size: cover;
+               margin: 0 auto;
+    }
+    
+    .navbar-nav{
+        font-size: 20px;
+       font-weight: bold;
+        margin: 0 auto;
+    }
+    
+    
+    .nav-link{
+         margin-left: 50px;
+        
+    }
+    .light{
+        background-color: wheat;
+    }
+     .line{
+        margin-top: 1px;
+        margin-left: 50px;
+        background-color: #cccccc;
+    }
+    .img-fluid{
+     width: 2600px;
+     height: 250px;
+     
+    }
+    .Error{
+        color: red;
+        margin-left: 80px;
+        visibility: hidden;
+       
+    }
+
+    .forgt{
+      margin-left: 80px;
+    }
