@@ -30,16 +30,17 @@ function SignUp_valid()
   
   }
   
-  if(check !== "1")
+  if(check === "1")
   {
       valid=false;
       checkbox.style.visibility = "visible";
-      Checkbox.style.border ="1px solid red";
+      Checkbox.value=""
+      
   }
   else
   {
      checkbox.style.visibility = "hidden";
-  
+  Checkbox.value="1"
   }
 
   if(valid)
@@ -53,6 +54,4 @@ function SignUp_valid()
   }
 }
           
-              
-           
-      
+   
