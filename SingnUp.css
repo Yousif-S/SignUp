@@ -110,3 +110,10 @@
     .forgt{
       margin-left: 80px;
     }
+    .Echeck{
+       
+        color: red;
+        margin-left: 80px;
+        visibility: hidden;
+       
+    }
